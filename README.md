@@ -10,6 +10,7 @@ Tools: Excel, Power BI
 Skills: KPI tracking, visualization, inventory optimization
 
 2. [Netflix UCAN Region Content Analysis](Netflix_UCAN_Viewership_Analysis_Documentation.docx)
+   
 Explored Netflix’s content trends in the United States and Canada, identifying patterns in genres, ratings, and release years.
 Tools: Excel and Power BI
 Dkills: Data cleaning, exploratory data analysis, reporting.
