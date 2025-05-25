@@ -9,7 +9,7 @@ Analyzed inventory data for a fashion retailer to identify stock performance, di
 Tools: Excel, Power BI  
 Skills: KPI tracking, visualization, inventory optimization
 
-2. [Netflix UCAN Region Content Analysis](https://github.com/2bucks-cloud/netflix-ucan-analysis)
+2. [Netflix UCAN Region Content Analysis](Netflix_UCAN_Viewership_Analysis_Documentation.docx)
 Explored Netflix’s content trends in the United States and Canada, identifying patterns in genres, ratings, and release years.
 Tools: Excel and Power BI
 Dkills: Data cleaning, exploratory data analysis, reporting.
